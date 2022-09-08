@@ -3,11 +3,13 @@
 
 A Simple Web API to Generate Temporary Gmail Email. With a Json Response easy to manage messages  and working with IMAP Gmail Provider
 
+
+
 ## Demo
-
-
 https://user-images.githubusercontent.com/59155826/189171660-8834e098-18b4-41cd-bb53-c39df8aaed40.mp4
 
+Time To build This Project : [![wakatime](https://wakatime.com/badge/user/4e928ad9-c7b7-4f58-b88a-0f7c3a008f41/project/acf42200-a374-49dd-8369-c6f044b2a6db.svg)](https://wakatime.com/badge/user/4e928ad9-c7b7-4f58-b88a-0f7c3a008f41/project/acf42200-a374-49dd-8369-c6f044b2a6db)\
+Wakatime Project : https://wakatime.com/@sandrocods/projects/mtsiyzjnpw?start=2022-09-04&end=2022-09-10
 
 
 
